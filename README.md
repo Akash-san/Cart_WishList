@@ -5,7 +5,7 @@ A web application for managing shopping carts and wishlists.
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Demo](#demo)
+- [Live Demo Project](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
@@ -18,7 +18,7 @@ A web application for managing shopping carts and wishlists.
 
 The Cart Wishlist Web Application is a user-friendly platform for managing your shopping experience. It allows users to effortlessly organize their shopping carts and wishlists. The application provides a clean and intuitive interface for users to add or remove items, track their selections, and prepare for hassle-free shopping.
 
-## Demo
+## Live Demo Project
 
 You can access a live demo of the application [here](https://cart-wishlist.onrender.com).
 
