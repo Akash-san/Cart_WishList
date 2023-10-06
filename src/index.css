@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+/* .login-background,
+.signup-background {
+  background: url(https://img.freepik.com/free-photo/digital-transformation-corporate-wallpaper_53876-97646.jpg?w=1060&t=st=1696609811~exp=1696610411~hmac=c4863ccce66ac311db4b2ec4e4212fd85008459dbceacdb1ccdcac527724c2cb);
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
